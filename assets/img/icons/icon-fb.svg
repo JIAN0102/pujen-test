@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-icon-fb">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="icon-fb" clip-path="url(#clip-icon-fb)">
+    <g id="Group_3114" data-name="Group 3114" transform="translate(-1215.5 -574.999)">
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M19.651,40H3.5A3.5,3.5,0,0,1,0,36.5V3.5A3.5,3.5,0,0,1,3.5,0h33A3.5,3.5,0,0,1,40,3.5v33A3.5,3.5,0,0,1,36.5,40H25.583V27.814H29.5l.518-5.037H25.583V19.81a1.213,1.213,0,0,1,1.259-1.375h3.189V13.541l-4.395-.019c-4.413,0-5.986,3.093-5.986,5.987v3.262H16.828v5.043h2.822V40Z" transform="translate(1215.5 574.999)" fill="#3b5998"/>
+    </g>
+  </g>
+</svg>
